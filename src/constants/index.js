@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
 
 export const HERO_CONTENT = `I am a passionate Software Engineer with a knack for crafting robust and scalable web applications and automation solutions. With 3 years of hands-on experience, I have honed my skills in Full Stack technologies, Data Science, Data Analysis and Automation solutions. My goal is to leverage my expertise which encompasses a wide range of programming languages, databases, web development frameworks, and advanced technologies, allowing me to develop innovative solutions that drive business efficiency and deliver exceptional user experiences.`;
 
@@ -54,6 +55,13 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Scalable ETL Framework with Advanced Techniques",
+    image: project5,
+    description:
+      "Designed and implemented scalable ETL pipelines using Databricks and PySpark, leveraging advanced techniques like the Factory Pattern, broadcast joins, and partitioning to optimize data processing from CSV, Parquet, and Delta Tables into Data Lake and Delta Lake.",
+    technologies: ["Databricks", "PySpark", "ETL Pipelines"],
+  },
   {
     title: "Open Weather Map - Explorative Data Analysis",
     image: project1,
