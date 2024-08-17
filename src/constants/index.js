@@ -43,14 +43,14 @@ export const EXPERIENCES = [
     role: "Software Engineer",
     company: "Accenture.",
     description: [
-      "Spearheaded development of automation solutions for desktop applications in a US-based insurance company.",
-      "Created an automation suite using visual basic scripting for Oracle EBS and OBIEE, optimizing processes.",
-      "Demonstrated expertise in CI/CD tools (Git, Jenkins) for seamless integration and continuous delivery.",
-      "Developed regression scripts, implemented new enhancements, and managed concurrent programs and outbound interfaces.",
-      "Led strategic initiatives overseeing the complete SDLC, implementing Kanban and Agile methodologies.",
-      "Utilized agile tools such as Jira and Zephyr (BDD) for efficient project management and collaboration."
+      "Developed and refined Python scripts to automate complex data cleaning and processing workflows, leading to a more streamlined operation and significantly improving overall team efficiency. These scripts helped reduce process time by 40% for an US-based Health insurance company.",
+      "Collaborated with senior developers to design and implement RESTful APIs using Flask, contributing to the optimization of backend operations and enhancing system performance, resulting in 20% faster data retrieval times.",
+      "Automated a routine data extraction and transformation processes with Python, which reduced manual effort by 40% and accelerated project timelines, allowing for more rapid delivery of key features.",
+      "Implemented and maintained comprehensive unit test suites using PyTest, increasing test coverage by 25%, which helped ensure the reliability and stability of the codebase before deployment.",
+      "Actively participated in peer code reviews, where I identified and resolved code issues, leading to improved code quality and reducing the number of bugs in production.",
+      "Demonstrated expertise in CI/CD tools such as Git and Jenkins, ensured seamless CI/CD, cutting execution time by 30% and streamlining automation project deployments."
     ],
-    technologies: ["Python", "Java", "SQL", "VBScript"],
+    technologies: ["Python", "SQL", "Flask", "FastAPI"],
   }
 ];
 
@@ -73,7 +73,7 @@ export const PROJECTS = [
     title: "Github Insights Dashboard",
     image: project2,
     description:
-      "Architected a sophisticated GitHub Insights Dashboard through Python, Flask, and React; utilized Docker and GCP to deploy as micro-services, improving repository metrics visualization and data analysis accuracy.",
+      "Developed and deployed machine learning models using TensorFlow/KERAS, Facebook Prophet, and StatsModel to forecast GitHub repository metrics, including issues, stars, forks, and contributions.",
     technologies: ["Python", "React", "Flask", "Docker", "GCP"],
   },
   {
