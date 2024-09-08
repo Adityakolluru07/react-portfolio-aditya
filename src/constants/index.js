@@ -30,13 +30,13 @@ export const ABOUT_TEXT_3 = `I thrive in collaborative environments and enjoy so
 // ];
 export const EXPERIENCES = [
   {
-    year: "2023 - 2024",
-    role: "Teaching Assistant",
-    company: "Illinois Institute of Technology.",
+    year: "2024 - Present",
+    role: "AI Engineer Intern",
+    company: "BreatheIT Solutions Inc",
     description: [
-      "Enhanced Computer Networks course as a TA, leading to a 15% rise in average student exam scores through innovative homework design and interactive discussions."
+      "Implemented an AI-powered process assessment tool using LangChain and RAG pipelines to analyze key metrics, delivering precise evaluations that enhance operational efficiency and decision-making."
     ],
-    technologies: [],
+    technologies: ["GenAI", "LLM", "LangChain", "RAG", "VectorDb"],
   },
   {
     year: "2019 - 2022",
