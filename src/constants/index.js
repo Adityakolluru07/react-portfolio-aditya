@@ -55,12 +55,7 @@ export const EXPERIENCES = [
       "Utilized relational databases and SQL Alchemy ORM for optimized database operations, ensuring seamless data management and accessibility.",
       "Deployed solutions on AWS, incorporating services to optimize scalability and reliability.",
       "Utilized Docker for containerization and Kubernetes for orchestration, streamlining application deployments.",
-      "Streamlined CI/CD pipelines using Git and Jenkins, reducing deployment time and enhancing software delivery efficiency.",
-      "Collaborated with senior developers to design and implement RESTful APIs using Flask, contributing to the optimization of backend operations and enhancing system performance, resulting in 20% faster data retrieval times.",
-      "Automated a routine data extraction and transformation processes with Python, which reduced manual effort by 40% and accelerated project timelines, allowing for more rapid delivery of key features.",
-      "Implemented and maintained comprehensive unit test suites using PyTest, increasing test coverage by 25%, which helped ensure the reliability and stability of the codebase before deployment.",
-      "Actively participated in peer code reviews, where I identified and resolved code issues, leading to improved code quality and reducing the number of bugs in production.",
-      "Demonstrated expertise in CI/CD tools such as Git and Jenkins, ensured seamless CI/CD, cutting execution time by 30% and streamlining automation project deployments."
+      "Streamlined CI/CD pipelines using Git and Jenkins, reducing deployment time and enhancing software delivery efficiency."
     ],
     technologies: ["Python", "Java", "SQL", "Flask", "FastAPI"],
   }
